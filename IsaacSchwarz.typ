@@ -74,6 +74,7 @@
     datetime(year: 2023, month: 8, day: 1),
     datetime(year: 2026, month: 5,  day: 1)
   )[
+    - Dean's list
   ]
   #education-heading(
     "Pima Community College", "Tucson, AZ",
@@ -91,4 +92,26 @@
   #text("Database Systems (MySQL)                           Computer Networking (C, Python)") \
 ]
 
-
+#custom-title("Work Experience")[  
+  #work-heading(
+    "Production Cook",
+    "Cracker Barrel",
+    "Flagstaff, AZ",
+    datetime(year:2025, month:9, day:1),
+    "Present",
+  )[]
+  #work-heading(
+    "Prep Cook",
+    "Zona 78",
+    "Tucson, AZ",
+    datetime(year:2024, month:6, day:1),
+    datetime(year:2025, month:7, day:1),
+  )[]
+  #work-heading(
+    "Nursery Worker",
+    "Civano Garden Center",
+    "Tucson, AZ",
+    datetime(year:2021, month:6, day:1),
+    datetime(year:2023, month:8, day:1),
+  )[]
+]
