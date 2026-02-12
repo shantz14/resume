@@ -1,7 +1,7 @@
 #import "@preview/simple-technical-resume:0.1.0": *
 
 #let name = "Isaac Schwarz"
-#let phone = "(520)-788-7233"
+#let phone = "(520)788-7233"
 #let email = "isaac_schwarz@icloud.com"
 #let github = "shantz14"
 #let personal-site = "isaacschwarz.dev"
