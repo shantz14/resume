@@ -30,9 +30,9 @@
     datetime(year:2025, month:8, day:1),
     "Present",
   )[
-    - Designing and implementing a Rust-based testing tool for NVMe SSDs.
+    - Designing and implementing a Rust-based testing framework for NVMe SSDs.
     - Using formal methods (TLA+, TLC) to specify NVMe behavior and generate test sequences.
-    - Writing a Rust runner to translate and run test sequences on real NVMe drives.
+    - Writing a Rust execution engine to translate and run test sequences on real NVMe drives.
     - Producing professional well-documented code for potential internal use by SanDisk engineers.
   ]
 ]
@@ -42,16 +42,17 @@
     "NYT RPG", 
     stack: "Typescript, Golang, SQLite",
   )[
-    - Web based real time RPG with New York Times games.
+    - Web based real time RPG with New York Times games using WebSockets and a RESTful API.
     - Implemented concurrent Websocket connections for live gameplay features.
     - Built a REST API to handle user authentication and various other features.
+    - Containerized with Docker for easy deployment.
   ]
 
   #project-heading(
     "VI",
     stack: "Rust",
   )[
-    - Vi text editor clone. Compiles to Web Assembly to be used on the web.
+    - Vi text editor clone. Compiles to WebAssembly to be used on the web.
     - Gap Buffer implementation for efficient text manipulation.
   ]
 ]
