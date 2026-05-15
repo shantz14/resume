@@ -2,7 +2,7 @@
 
 #let name = "Isaac Schwarz"
 #let phone = "(520)788-7233"
-#let email = "isaac_schwarz@icloud.com"
+#let email = "isaacschwarz11@gmail.com"
 #let github = "shantz14"
 #let personal-site = "isaacschwarz.dev"
 
@@ -19,7 +19,7 @@
 )
 
 #custom-title("Objective")[
-  Senior computer science student seeking an engaging internship or entry level position to expand my experience and knowledge in the field of computer science.
+  Recently graduated computer science student seeking an engaging internship or entry level position to expand my experience and knowledge in the field of computer science.
 ]
 
 #custom-title("Experience")[  
@@ -71,11 +71,11 @@
 #custom-title("Education")[
   #education-heading(
     "Northern Arizona University", "Flagstaff, AZ",
-    "Bachelor of Science (In-Progress)", "Computer Science",
+    "Bachelor of Science", "Computer Science",
     datetime(year: 2023, month: 8, day: 1),
     datetime(year: 2026, month: 5,  day: 1)
   )[
-    - Dean's list
+    - Cum Laude
   ]
   #education-heading(
     "Pima Community College", "Tucson, AZ",
