@@ -28,12 +28,12 @@
     "SanDisk & Northern Arizona University",
     "Flagstaff, AZ",
     datetime(year:2025, month:8, day:1),
-    "Present",
+    datetime(year:2026, month:4, day:1)
   )[
-    - Designing and implementing a Rust-based testing framework for NVMe SSDs.
-    - Using formal methods (TLA+, TLC) to specify NVMe behavior and generate test sequences.
-    - Writing a Rust execution engine to translate and run test sequences on real NVMe drives.
-    - Producing professional well-documented code for potential internal use by SanDisk engineers.
+    - Designed and implemented a Rust-based testing framework for NVMe SSDs.
+    - Used formal methods (TLA+, TLC) to specify NVMe behavior and generate test sequences.
+    - Wrote a Rust execution engine to translate and run test sequences on real NVMe drives.
+    - Produced professional well-documented code for internal use by SanDisk engineers.
   ]
 ]
 
@@ -73,7 +73,7 @@
     "Northern Arizona University", "Flagstaff, AZ",
     "Bachelor of Science", "Computer Science",
     datetime(year: 2023, month: 8, day: 1),
-    datetime(year: 2026, month: 5,  day: 1)
+    datetime(year: 2026, month: 4,  day: 1)
   )[
     - Cum Laude
   ]
