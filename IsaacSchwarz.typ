@@ -63,7 +63,7 @@
     *UI Frameworks*: Html, React \
     *Databases*: MySQL, SQLite, MongoDB \
     *Operating Systems*: MacOS, Linux, Windows \
-    *Software*: Git, Neovim, VS Code, Postman \ 
+    *Software*: Git, Neovim, Claude Code, VS Code, Postman \ 
     *General*: Bash, Make, Docker \
   ]
 ]
